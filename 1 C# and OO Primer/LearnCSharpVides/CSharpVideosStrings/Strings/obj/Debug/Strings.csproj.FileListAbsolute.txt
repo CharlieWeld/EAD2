@@ -1,0 +1,6 @@
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosStrings\Strings\bin\Debug\Strings.exe.config
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosStrings\Strings\bin\Debug\Strings.exe
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosStrings\Strings\bin\Debug\Strings.pdb
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosStrings\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosStrings\Strings\obj\Debug\Strings.exe
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosStrings\Strings\obj\Debug\Strings.pdb

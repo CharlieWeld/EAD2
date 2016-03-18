@@ -1,0 +1,7 @@
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosClasses\Classes\bin\Debug\Classes.exe.config
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosClasses\Classes\bin\Debug\Classes.exe
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosClasses\Classes\bin\Debug\Classes.pdb
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosClasses\Classes\obj\Debug\Classes.exe
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosClasses\Classes\obj\Debug\Classes.pdb
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosClasses\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosClasses\Classes\bin\Debug\cars.txt

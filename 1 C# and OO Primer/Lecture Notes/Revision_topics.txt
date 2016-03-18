@@ -1,0 +1,76 @@
+
+Class
+-properties/fields  & methods
+-Constructors
+-overloading methods & constructors
+
+Base class (superclass) & Derived class
+
+Access modifiers   (public,private,protected)
+
+Virtual/overriding methods
+
+Static class 
+static method  
+	- can i call static method from instance?
+	- can i call instance methiods from static class?
+
+Abstract  class / Abstract method  
+   - Can abstract class contain non-abstract methods?  
+   - Can normal class contain abstract methods
+Sealed
+
+
+interface 
+(interface versus abstract!!)
+
+
+TIPS
+search on internet for c# interview class
+
+
+
+
+LINQ Notes:
+
+//heres what using embedded SQL in some code might look like
+//LINQ is much more readable (and portable)-
+    class TestClass
+    {
+        static void Main(string[] args)
+        {
+           string personDetails  = ""
+
+           Database db = new Database("connection string");
+           db.connect();
+
+           string SQL;
+
+           SQL =  "Select * from TB_Person person";
+           SQL += "where ";
+           SQL += " person.FirstName = 'John'";
+           SQL += "and person.lastName = 'John'";
+           SQL += "and person.DOB > 1980";
+           SQL += "OrderBy Person.PersonID Ascendiong";
+
+           var result = Db.RunCommand(SQL);
+           
+           string answer = "";
+           if (result.RecordCount > 0)
+           {
+               //code to print out each databse field
+               //Perhaps there may be more filtering here
+               for(int x = 0; x<result.lenght;x++)
+               {
+                   if(result[x].Field == "FirstName")
+                   {
+                      if(result[x].Value != null)
+                      {
+                           var val = result[x].Value;
+                           answer = val.ToString().ToUpper();
+                      }                      
+                   }
+               }
+           }
+        }
+    }

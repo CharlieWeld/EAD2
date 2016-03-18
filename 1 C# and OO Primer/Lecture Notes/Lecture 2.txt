@@ -1,0 +1,37 @@
+Solutions -> Projects -> Files (.sln, .prj)
+DLL called from one location used by many applications
+
+namespaces are specified by 'using <namespace>'
+
+- References show the available namespaces which are compiled into DLL's
+
+- Building a debug exe allows ide to step through the code 
+
+- Release is smaller
+
+Debugging
+- breakpoints
+- step into
+- step over
+
+C#
+ - strongly typed (must assign type and can't change type) - helps memory management
+ int x (x is not an address its an Object!)0
+
+ - object based
+
+ - Strings are immutable!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+Classes
+- objects and then rules and regulations
+
+Constructors
+If you create a constructor c# will not create a default constructor
+
+DLL's are stored in one place in memory but each program takes a copy during run time
+
+Languages compiled in visual studio are compiled to IL
+
+Run on CLR using JIT 
+
+

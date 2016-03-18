@@ -1,0 +1,4 @@
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosASPEvents\ASPEvents\bin\ASPEvents.dll
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosASPEvents\ASPEvents\bin\ASPEvents.pdb
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosASPEvents\ASPEvents\obj\Debug\ASPEvents.dll
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosASPEvents\ASPEvents\obj\Debug\ASPEvents.pdb

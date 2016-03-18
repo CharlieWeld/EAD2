@@ -1,0 +1,5 @@
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosEnumerations\Enumerations\bin\Debug\Enumerations.exe.config
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosEnumerations\Enumerations\bin\Debug\Enumerations.exe
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosEnumerations\Enumerations\bin\Debug\Enumerations.pdb
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosEnumerations\Enumerations\obj\Debug\Enumerations.exe
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosEnumerations\Enumerations\obj\Debug\Enumerations.pdb

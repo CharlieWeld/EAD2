@@ -1,0 +1,6 @@
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosLINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosLINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosLINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosLINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosLINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosLINQ\LINQ\obj\Debug\LINQ.pdb

@@ -1,0 +1,14 @@
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosEvents\WpfEvents\bin\Release\WpfEvents.exe.config
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosEvents\WpfEvents\bin\Release\WpfEvents.exe
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosEvents\WpfEvents\bin\Release\WpfEvents.pdb
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosEvents\WpfEvents\obj\Release\WpfEvents.csprojResolveAssemblyReference.cache
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosEvents\WpfEvents\obj\Release\MainWindow.g.cs
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosEvents\WpfEvents\obj\Release\App.g.cs
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosEvents\WpfEvents\obj\Release\WpfEvents_MarkupCompile.cache
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosEvents\WpfEvents\obj\Release\WpfEvents_MarkupCompile.lref
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosEvents\WpfEvents\obj\Release\MainWindow.baml
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosEvents\WpfEvents\obj\Release\WpfEvents.g.resources
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosEvents\WpfEvents\obj\Release\WpfEvents.Properties.Resources.resources
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosEvents\WpfEvents\obj\Release\WpfEvents.csproj.GenerateResource.Cache
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosEvents\WpfEvents\obj\Release\WpfEvents.exe
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosEvents\WpfEvents\obj\Release\WpfEvents.pdb

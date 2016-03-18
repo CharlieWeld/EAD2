@@ -1,0 +1,6 @@
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpDateTime\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpDateTime\DateTime\bin\Debug\DateTime.exe
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpDateTime\DateTime\bin\Debug\DateTime.pdb
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpDateTime\DateTime\obj\Debug\DateTime.csprojResolveAssemblyReference.cache
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpDateTime\DateTime\obj\Debug\DateTime.exe
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpDateTime\DateTime\obj\Debug\DateTime.pdb

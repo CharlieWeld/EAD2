@@ -1,0 +1,5 @@
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\Labs\CSharpLabs\Exercises\CSharpVideos1\FileHandling\bin\Release\FileHandling.exe.config
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\Labs\CSharpLabs\Exercises\CSharpVideos1\FileHandling\bin\Release\FileHandling.exe
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\Labs\CSharpLabs\Exercises\CSharpVideos1\FileHandling\bin\Release\FileHandling.pdb
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\Labs\CSharpLabs\Exercises\CSharpVideos1\FileHandling\obj\Release\FileHandling.exe
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\Labs\CSharpLabs\Exercises\CSharpVideos1\FileHandling\obj\Release\FileHandling.pdb

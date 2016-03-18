@@ -1,0 +1,5 @@
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosExceptions\Exceptions\bin\Release\Exceptions.exe.config
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosExceptions\Exceptions\bin\Release\Exceptions.exe
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosExceptions\Exceptions\bin\Release\Exceptions.pdb
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosExceptions\Exceptions\obj\Release\Exceptions.exe
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosExceptions\Exceptions\obj\Release\Exceptions.pdb

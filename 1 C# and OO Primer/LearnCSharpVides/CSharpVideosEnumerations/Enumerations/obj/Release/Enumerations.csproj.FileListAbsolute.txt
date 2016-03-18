@@ -1,0 +1,6 @@
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosEnumerations\Enumerations\bin\Release\Enumerations.exe.config
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosEnumerations\Enumerations\bin\Release\Enumerations.exe
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosEnumerations\Enumerations\bin\Release\Enumerations.pdb
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosEnumerations\Enumerations\obj\Release\Enumerations.csprojResolveAssemblyReference.cache
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosEnumerations\Enumerations\obj\Release\Enumerations.exe
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\LearnCSharpVides\CSharpVideosEnumerations\Enumerations\obj\Release\Enumerations.pdb

@@ -1,0 +1,7 @@
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\Labs\CSharpLabs\Exercises\CSharpVideos1\FileHandling\bin\Debug\FileHandling.exe.config
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\Labs\CSharpLabs\Exercises\CSharpVideos1\FileHandling\obj\Debug\FileHandling.csprojResolveAssemblyReference.cache
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\Labs\CSharpLabs\Exercises\CSharpVideos1\FileHandling\bin\Debug\FileHandling.exe
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\Labs\CSharpLabs\Exercises\CSharpVideos1\FileHandling\bin\Debug\FileHandling.pdb
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\Labs\CSharpLabs\Exercises\CSharpVideos1\FileHandling\obj\Debug\FileHandling.exe
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\Labs\CSharpLabs\Exercises\CSharpVideos1\FileHandling\obj\Debug\FileHandling.pdb
+C:\Users\Charlie\Dropbox\EAD\1 C# and OO Primer\Labs\CSharpLabs\Exercises\CSharpVideos1\FileHandling\bin\Debug\text.txt
